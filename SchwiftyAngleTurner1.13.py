@@ -1,6 +1,6 @@
 ;; *************************************************************************************
 ;;  Created by: Tianyu Feng
-;;  NER GEomatics Spring 2017
+;;  Spring 2017
 ;;  Schwifty Angle Turn Tool + Conversion Tool
 ;;  #README
 ;;  For unit conversions, you can use basic math operaters in the input, such as
